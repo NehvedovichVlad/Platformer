@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 27019853ef5e2a84aa2ea49b8d72c6fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 1, y: 0, z: 1, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ugol_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 478
+        width: 220
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3cbedbf6dd0b140bbe6e64ddafeadc
+      internalID: -1370832074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 467
+        width: 220
+        height: 220
+      alignment: 9
+      pivot: {x: 0.52622235, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552bf60ec2ea7c438b7d8f7e77b4978
+      internalID: -1083992875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 465
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4682ed70b6f399498f223ef4ae6647d
+      internalID: 1815111765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 234
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e704cf2d3ad01f4c9ed95f0c5ebc85d
+      internalID: 1887997013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 234
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b2cf51c74dc01439280644be80f0ad
+      internalID: -996677965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 234
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6613c79938422c41ad3a6024b3fd042
+      internalID: -1922954169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618336a802d14a64d86bf96041866a36
+      internalID: -160646597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661b2c420d25f2409d1e07b61561fa7
+      internalID: 252930437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 8
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc628c44166ca479763dea5248d7c0
+      internalID: 1328880004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 690
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d75d56392eb9d44974786b3406a512
+      internalID: -1976831654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ugol_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 680
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97094380f65333d44bf7b6ac3d8c8da7
+      internalID: 1251399085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -334.59683, y: 124.031525}
+      - {x: -334.59683, y: 334.59674}
+      - {x: -126.91603, y: 334.59674}
+      - {x: -126.91603, y: 124.031525}
+    - - {x: -105.76337, y: 122.10855}
+      - {x: -105.76337, y: 334.59674}
+      - {x: 105.76337, y: 334.59674}
+      - {x: 105.76337, y: 122.10855}
+    - - {x: 125.95456, y: 124.031525}
+      - {x: 125.95456, y: 336.5197}
+      - {x: 334.59686, y: 336.5197}
+      - {x: 334.59686, y: 124.031525}
+    - - {x: 123.0701, y: -105.76343}
+      - {x: 123.0701, y: 105.763306}
+      - {x: 333.63538, y: 105.763306}
+      - {x: 333.63538, y: -105.76343}
+    - - {x: -108.64783, y: -102.87897}
+      - {x: -108.64783, y: 102.878845}
+      - {x: 103.84039, y: 102.878845}
+      - {x: 103.84039, y: -102.87897}
+    - - {x: -337.4813, y: -101.917496}
+      - {x: -337.4813, y: 103.84033}
+      - {x: -127.87753, y: 103.84033}
+      - {x: -127.87753, y: -101.917496}
+    - - {x: -336.5198, y: -336.51987}
+      - {x: -336.5198, y: -123.07016}
+      - {x: -125.95456, y: -123.07016}
+      - {x: -125.95456, y: -336.51987}
+    - - {x: -105.76337, y: -337.48135}
+      - {x: -105.76337, y: -124.99313}
+      - {x: 103.84039, y: -124.99313}
+      - {x: 103.84039, y: -337.48135}
+    - - {x: 124.99307, y: -333.6354}
+      - {x: 124.99307, y: -127.877594}
+      - {x: 336.51978, y: -127.877594}
+      - {x: 336.51978, y: -333.6354}
+    physicsShape:
+    - - {x: -336, y: 127}
+      - {x: -336, y: 334}
+      - {x: -131, y: 334}
+      - {x: -131, y: 127}
+    - - {x: -104, y: 128}
+      - {x: -104, y: 334}
+      - {x: 102, y: 334}
+      - {x: 102, y: 128}
+    - - {x: 126, y: 126}
+      - {x: 126, y: 334}
+      - {x: 334, y: 334}
+      - {x: 334, y: 126}
+    - - {x: 123, y: -106}
+      - {x: 123, y: 104}
+      - {x: 324, y: 104}
+      - {x: 324, y: -106}
+    - - {x: -104, y: -105}
+      - {x: -104, y: 108}
+      - {x: 100, y: 108}
+      - {x: 100, y: -105}
+    - - {x: -337, y: -103}
+      - {x: -337, y: 98}
+      - {x: -128, y: 98}
+      - {x: -128, y: -103}
+    - - {x: -325, y: -334}
+      - {x: -325, y: -129}
+      - {x: -131, y: -129}
+      - {x: -131, y: -334}
+    - - {x: -102, y: -333}
+      - {x: -102, y: -133}
+      - {x: 107, y: -133}
+      - {x: 107, y: -333}
+    - - {x: 125, y: -331}
+      - {x: 125, y: -128}
+      - {x: 336, y: -128}
+      - {x: 336, y: -331}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ugol_0: -1370832074
+      ugol_1: -1083992875
+      ugol_10: 1251399085
+      ugol_2: 1815111765
+      ugol_3: 1887997013
+      ugol_4: -996677965
+      ugol_5: -1922954169
+      ugol_6: -160646597
+      ugol_7: 252930437
+      ugol_8: 1328880004
+      ugol_9: -1976831654
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
